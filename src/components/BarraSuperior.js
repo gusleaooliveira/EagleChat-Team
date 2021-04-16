@@ -5,7 +5,7 @@ function BarraSuperior(props){
             <div className="container-logotipo"> 
                 <img src={props.imagem} className="item icon-large border-circle" /> 
                 <p className="item-center ">{props.nome}</p>
-            </div>
+            </div> 
           </header>
 }
 
