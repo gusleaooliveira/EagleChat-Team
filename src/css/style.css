@@ -1,0 +1,42 @@
+.container-logotipo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.item {
+  margin-right: 5px; 
+}
+.item-center {
+  margin-right: 5px;
+}
+
+.grid-botao {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.input-pesquisar{
+  flex-grow: 8 
+}
+.btn-pesquisar{
+  flex-grow: 4
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;  
+}
+
+.col-4 {
+  flex-grow: 2;
+}
+.col-8 {
+  flex-grow: 10;
+}
+
+.tamanho-total {
+  height: 100vh;
+}
