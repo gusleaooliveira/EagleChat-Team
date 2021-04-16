@@ -1,6 +1,7 @@
 import React from 'react';
 import BarraInferiror from './BarraInferiror'
 import BarraSuperior from './BarraSuperior'
+import Mensagens from './Mensagens'
 import Chat from './Chat'
 
 let lista = [{ nome: 'pessoa 1', ultima_mensagem: 'loremn ipsum teste lorem ipsum at', imagem:'https://i.pinimg.com/originals/49/c8/e4/49c8e403cd1929e9e7b02126824ff831.jpg' 
