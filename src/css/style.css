@@ -3,6 +3,11 @@
   flex-direction: row;
   align-items: center;
 }
+.container-logotipo-coluna {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
 
 .item {
   margin-right: 5px; 
